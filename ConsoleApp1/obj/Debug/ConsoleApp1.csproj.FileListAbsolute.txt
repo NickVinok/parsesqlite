@@ -1,0 +1,17 @@
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\prais\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
